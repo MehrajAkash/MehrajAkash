@@ -8,6 +8,9 @@
 
 ### My Codeforces Profile
 
-[![Codeforces Profile](https://codeforces-stats.vercel.app/api/user?handle=Mehraj-Akash)](https://codeforces.com/profile/Mehraj-Akash)
+### My Codeforces Profile
+
+[![Codeforces Stats](https://cf-stats.vercel.app/api?handle=Mehraj-Akash)](https://codeforces.com/profile/Mehraj-Akash)
+
 
 
