@@ -4,4 +4,5 @@
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Mehraj_Akash-orange?logo=leetcode)](https://leetcode.com/u/Mehraj_Akash/)
 
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=Mehraj_Akash&theme=dark)
+![LeetCode Card](https://leetcard.jacoblin.cool/Mehraj_Akash?theme=dark)
+
