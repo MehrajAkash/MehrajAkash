@@ -6,3 +6,8 @@
 
 ![LeetCode Card](https://leetcard.jacoblin.cool/Mehraj_Akash?theme=dark)
 
+### My Codeforces Profile
+
+[![Codeforces Profile](https://codeforces-stats.vercel.app/api/user?handle=Mehraj-Akash)](https://codeforces.com/profile/Mehraj-Akash)
+
+
